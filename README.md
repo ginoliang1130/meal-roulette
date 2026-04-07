@@ -1,26 +1,26 @@
 # meal-roulette
 
-> Spin the wheel. Let fate decide your next meal.
+> 轉動輪盤，讓命運決定你今天吃什麼。
 
-A web app inspired by 料理東西軍 — instead of battling chefs, you battle indecision.  
-Tired of asking "今天吃什麼？" — let **meal-roulette** answer for you.
+靈感來自料理東西軍——不是廚師對決，而是對抗選擇障礙。  
+再也不用煩惱「今天吃什麼？」，交給 **meal-roulette** 決定。
 
-## Features (planned)
+## 功能規劃
 
-- Spin a roulette to randomly pick what to eat today
-- Add / remove meal candidates
-- Category filtering (e.g. 台式、日式、速食、自煮...)
-- Meal history log — so you don't eat the same thing twice in a row
-- Shareable spin results
+- 轉動輪盤隨機選出今日餐點
+- 自由新增 / 刪除候選餐點
+- 類別篩選（台式、日式、速食、自煮⋯⋯）
+- 用餐紀錄，避免連續吃同樣的東西
+- 可分享的轉盤結果
 
-## Tech stack
+## 技術選型
 
-> TBD — framework and language to be decided.
+> 待定，框架與語言稍後確認。
 
-## Development
+## 開發
 
 ```bash
-# TBD
+# 待補
 ```
 
 ## License
